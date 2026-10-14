@@ -150,7 +150,7 @@
         st7789: st7789@0{
 		compatible = "sitronix,st7789";
 		reg = <0>;
-		status = "disabled";
+		status = "okay";
 		spi-max-frequency = <80000000>;
 		spi-cpol;
 		spi-cpha;
